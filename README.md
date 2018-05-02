@@ -1,0 +1,2 @@
+# spec
+CloudIntegrations Specification
